@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Hamza",
+    "age": 29,
+    "email": "hamza@email.com",
+    "phone": "111111111"
+  },
+  {
+    "name": "Houssem",
+    "age": 29,
+    "email": "houssem@email.com",
+    "phone": "222222222"
+  },
+  {
+    "name": "Hanna",
+    "age": 27,
+    "email": "hanna@email.com",
+    "phone": "333333333"
+  },
+  {
+    "name": "Bilel",
+    "age": 24,
+    "email": "bilel@email.com",
+    "phone": "444444444"
+  },
+  {
+    "name": "Rostom",
+    "age": 29,
+    "email": "rostom@email.com",
+    "phone": "²55555555555"
+  },
+  {
+    "name": "Salim",
+    "age": 28,
+    "email": "salim@email.com",
+    "phone": "66666666666"
+  },
+  {
+    "name": "Nihel",
+    "age": 27,
+    "email": "nihel@email.com",
+    "phone": "777777777777"
+  },
+  {
+    "name": "Dhekra",
+    "age": 29,
+    "email": "dhekra@email.com",
+    "phone": "888888888888"
+  }
+]
